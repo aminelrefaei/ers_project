@@ -13,6 +13,7 @@
         <!-- Specifies where the properties file is located -->
         <log4j.configuration>conf/log4j.properties</log4j.configuration>
     </properties>
+    <url>http://maven.apache.org</url>
     <dependencies>
         <!-- OJDB7 Local Maven Repository -->
         <dependency>
